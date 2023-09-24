@@ -45,4 +45,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&theme=radical" alt="most used languages" />
 
 ![Abdullah023313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah023313&show_icons=true&theme=tokyonight) 
-[![GitHub Abdullah023313](https://img.shields.io/github/followers/KirolosMFahem?label=follow&style=social)](https://github.com/Abdullah023313)
+[![GitHub Abdullah023313](https://img.shields.io/github/followers/Abdullah023313?label=follow&style=social)](https://github.com/Abdullah023313)
