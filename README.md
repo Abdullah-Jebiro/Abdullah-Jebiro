@@ -22,6 +22,10 @@
 <a href="mailto:abdullahjbero@gmail.com"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdullah-jebiro/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
+### LeetCode
+<a href="https://leetcode.com/AbdullahJebiro/" target="_blank">
+    <img src="https://img.shields.io/badge/-AbdullahJebiro-FFA116?style=for-the-badge&logo=LeetCode" alt="LeetCode">
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
