@@ -14,7 +14,7 @@
 - 👨‍💻 As a software developer, I am passionate about creating web applications using .NET/Angular and constantly improving my skills.
 - 💬 Ask me about my experience with C#, ASP.NET, Angular, and SQL Server, or anything related to full-stack development.
 - ⚡ Fun Fact: I am always enthusiastic about learning and exploring new technologies.
-- 👨‍💻 Check out my projects and contributions on my [GitHub](https://github.com/abdullahjbero).
+- 👨‍💻 Check out my projects and contributions on my [GitHub]([https://github.com/abdullahjbero](https://github.com/Abdullah023313)).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-jebiro/)
 
 ### Connect with Me :
