@@ -1,4 +1,6 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<div style="display: flex;">
+  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+</div>
 
 <h3 align="center">
   Welcome to Abdullah Jebiro's profile!
