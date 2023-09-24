@@ -18,9 +18,9 @@
 
 ### Connect with Me :
 
-<a href="tel:+352681507567"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Phone&logoColor=white"/></a>
 <a href="mailto:abdullahjbero@gmail.com"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdullah-jebiro/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=352681507567)
 
 ### LeetCode
 <a href="https://leetcode.com/AbdullahJebiro/" target="_blank">
