@@ -40,9 +40,4 @@
 <!-- GitHub Readme Stats - Most Used Languages -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<!-- GitHub Profile Views Badge -->
-<br>
-<a href="https://komarev.com/ghpvc/?username=Abdullah023313&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=Abdullah023313&style=for-the-badge">
-</a>
 
