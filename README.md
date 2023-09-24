@@ -38,25 +38,5 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 <!-- GitHub Readme Stats - Most Used Languages -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-## GitHub Stats
-
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical)
-
-### Profile Views
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views">
-</a>
-
-## Connect with Me
-
-### Social Media
-<!-- Add your other social media links or icons here -->
-
-### GitHub
-<a href="https://github.com/yousefdergham" target="_blank">
-    <img src="https://img.shields.io/badge/-yousefdergham-181717?style=for-the-badge&logo=GitHub" alt="GitHub">
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&theme=radical" alt="most used languages" />
 
