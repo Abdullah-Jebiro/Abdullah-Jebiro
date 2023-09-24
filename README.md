@@ -17,7 +17,6 @@
 - 👨‍💻 Check out my projects and contributions on my [GitHub](https://github.com/Abdullah023313).
 
 ### Connect with Me :
-### Connect with Me :
 
 <a href="tel:+352681507567"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Phone&logoColor=white"/></a>
 <a href="mailto:abdullahjbero@gmail.com"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
