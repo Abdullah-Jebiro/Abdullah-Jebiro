@@ -42,7 +42,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 <!-- GitHub Readme Stats - Most Used Languages -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&theme=radical" alt="most used languages" />
-
-![Abdullah023313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah023313&show_icons=true&theme=tokyonight) 
 [![GitHub Abdullah023313](https://img.shields.io/github/followers/Abdullah023313?label=follow&style=social)](https://github.com/Abdullah023313)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah023313&show_icons=true&locale=en&theme=radical" alt="most used languages" />
+![Abdullah023313's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah023313&show_icons=true&theme=tokyonight) 
+
