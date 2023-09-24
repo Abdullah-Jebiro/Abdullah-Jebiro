@@ -15,6 +15,7 @@
 - 💬 Ask me about my experience with C#, ASP.NET, Angular, and SQL Server, or anything related to full-stack development.
 - ⚡ Fun Fact: I am always enthusiastic about learning and exploring new technologies.
 - 👨‍💻 Check out my projects and contributions on my [GitHub](https://github.com/abdullahjbero).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-jebiro/)
 
 ### Connect with Me :
 
@@ -36,21 +37,3 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 
-
-### Summary
-
-As a software developer, I am passionate about developing web applications using .NET/Angular. I possess strong analytical and problem-solving skills. My enthusiasm for learning new technologies and techniques is unparalleled, and I am confident that my strategic thinking will help me create innovative solutions.
-
-### Professional Experience
-
-- **Full Stack .NET Developer**
-  - Manteq Systems & Information Technology (Sep 2023 – Present)
-
-### Education
-
-- **Software Engineering**
-  - Idlib University, October 2022 - Present
-
-### Skills
-
-C#, ADO.NET, ASP.NET API, ASP.NET MVC, SQL Server, HTML/CSS, Bootstrap, TypeScript, JavaScript, Angular, Git & GitHub, algorithms, Database analysis, problem-solving, data structures.
