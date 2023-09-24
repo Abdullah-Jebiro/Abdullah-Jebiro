@@ -70,5 +70,3 @@
 - Midad organization (2018 - Present)
 
 - Certifications: C#, ADO.NET, ASP.NET API, ASP.NET MVC, SQL Server, HTML/CSS, Bootstrap, TypeScript, JavaScript, Angular, Git & GitHub, algorithms, Database analysis, solving problems, data structures
-
-my github [Abdullah's GitHub Profile](https://github.com/Abdullah023313)
