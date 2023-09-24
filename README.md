@@ -35,11 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
-### About Me
 
-- **Phone:** +352681507567
-- **Email:** abdullahjbero@gmail.com
-- **Name:** Abdullah Jebiro
 
 ### Summary
 
