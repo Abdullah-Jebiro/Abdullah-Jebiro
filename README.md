@@ -15,12 +15,14 @@
 - 💬 Ask me about my experience with C#, ASP.NET, Angular, and SQL Server, or anything related to full-stack development.
 - ⚡ Fun Fact: I am always enthusiastic about learning and exploring new technologies.
 - 👨‍💻 Check out my projects and contributions on my [GitHub](https://github.com/Abdullah023313).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullah-jebiro/)
 
+### Connect with Me :
 ### Connect with Me :
 
 <a href="tel:+352681507567"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Phone&logoColor=white"/></a>
 <a href="mailto:abdullahjbero@gmail.com"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdullah-jebiro/" target="_blank"><img src="https://img.shields.io/badge/-Abdullah%20Jebiro-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
