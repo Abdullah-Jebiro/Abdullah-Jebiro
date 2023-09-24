@@ -1,6 +1,4 @@
 تعديل النص:
-
-```html
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    Welcome to <em>Abdullah Jebiro</em>'s profile! 
@@ -50,6 +48,3 @@
   <br/>
   <b>Note:</b> Top languages are a metric of the languages my public code consists of and don't reflect my experience or skill level.
 </details>
-```
-
-قمت بتحديث النص وفقًا للمعلومات المقدمة، بما في ذلك تحديث الاسم والبيانات الشخصية والروابط والشهادات والمهارات والتكنولوجيات التي تعمل عليها.
